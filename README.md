@@ -81,7 +81,7 @@ This will:
 ## Files Included
 - `FDAD_Team3_LeishaMenezes.ipynb` – full analysis and team formation workflow  
 - `requirements.txt` – necessary packages  
-- dataset file(s) used for analysis  
+- `records.csv` – dataset used for the project
 - `LICENSE` – MIT License  
 
 ---
